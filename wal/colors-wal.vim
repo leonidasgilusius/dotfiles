@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/Leon/Pictures/Wallpapers/pineforest.jpg"
+let background = "#0c0a1f"
+let foreground = "#a3a1c9"
+let cursor     = "#a3a1c9"
+
+" Colors
+let color0  = "#0c0a1f"
+let color1  = "#CA7063"
+let color2  = "#233B99"
+let color3  = "#38439A"
+let color4  = "#1645AE"
+let color5  = "#344FB1"
+let color6  = "#464EA2"
+let color7  = "#a3a1c9"
+let color8  = "#72708c"
+let color9  = "#CA7063"
+let color10 = "#233B99"
+let color11 = "#38439A"
+let color12 = "#1645AE"
+let color13 = "#344FB1"
+let color14 = "#464EA2"
+let color15 = "#a3a1c9"

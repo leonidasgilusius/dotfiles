@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Leon/Pictures/Wallpapers/moon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161006",
+        "foreground": "#d1d2cd",
+        "cursor": "#d1d2cd"
+    },
+    "colors": {
+        "color0": "#161006",
+        "color1": "#486C7C",
+        "color2": "#8B7968",
+        "color3": "#3E6C81",
+        "color4": "#4E7383",
+        "color5": "#637D86",
+        "color6": "#72888E",
+        "color7": "#d1d2cd",
+        "color8": "#92938f",
+        "color9": "#486C7C",
+        "color10": "#8B7968",
+        "color11": "#3E6C81",
+        "color12": "#4E7383",
+        "color13": "#637D86",
+        "color14": "#72888E",
+        "color15": "#d1d2cd"
+    }
+}

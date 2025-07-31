@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Leon/Pictures/Wallpapers/enhanced.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0a08",
+        "foreground": "#dbccc8",
+        "cursor": "#dbccc8"
+    },
+    "colors": {
+        "color0": "#0c0a08",
+        "color1": "#FB3E06",
+        "color2": "#BB5838",
+        "color3": "#FB4206",
+        "color4": "#E45729",
+        "color5": "#F75A26",
+        "color6": "#E28E6E",
+        "color7": "#dbccc8",
+        "color8": "#998e8c",
+        "color9": "#FB3E06",
+        "color10": "#BB5838",
+        "color11": "#FB4206",
+        "color12": "#E45729",
+        "color13": "#F75A26",
+        "color14": "#E28E6E",
+        "color15": "#dbccc8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Leon/Pictures/Wallpapers/totoro.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1b1c",
+        "foreground": "#cedbc6",
+        "cursor": "#cedbc6"
+    },
+    "colors": {
+        "color0": "#0c1b1c",
+        "color1": "#A4AB74",
+        "color2": "#3E7482",
+        "color3": "#537B83",
+        "color4": "#3E8283",
+        "color5": "#668C8B",
+        "color6": "#9CA893",
+        "color7": "#cedbc6",
+        "color8": "#90998a",
+        "color9": "#A4AB74",
+        "color10": "#3E7482",
+        "color11": "#537B83",
+        "color12": "#3E8283",
+        "color13": "#668C8B",
+        "color14": "#9CA893",
+        "color15": "#cedbc6"
+    }
+}

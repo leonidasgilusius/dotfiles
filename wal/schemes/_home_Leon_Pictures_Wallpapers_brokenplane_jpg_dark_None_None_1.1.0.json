@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Leon/Pictures/Wallpapers/brokenplane.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121c16",
+        "foreground": "#bed99b",
+        "cursor": "#bed99b"
+    },
+    "colors": {
+        "color0": "#121c16",
+        "color1": "#74924E",
+        "color2": "#77AD4A",
+        "color3": "#7DC257",
+        "color4": "#859E2D",
+        "color5": "#87AF33",
+        "color6": "#86B34A",
+        "color7": "#bed99b",
+        "color8": "#85976c",
+        "color9": "#74924E",
+        "color10": "#77AD4A",
+        "color11": "#7DC257",
+        "color12": "#859E2D",
+        "color13": "#87AF33",
+        "color14": "#86B34A",
+        "color15": "#bed99b"
+    }
+}

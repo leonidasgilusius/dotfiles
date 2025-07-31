@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Leon/Pictures/Wallpapers/lonehouse.png",
+    "alpha": "100",
+    "special": {
+        "background": "#2d2d1e",
+        "foreground": "#d8cfc9",
+        "cursor": "#d8cfc9"
+    },
+    "colors": {
+        "color0": "#2d2d1e",
+        "color1": "#3D85AC",
+        "color2": "#4989B1",
+        "color3": "#7091A9",
+        "color4": "#7BA0C0",
+        "color5": "#8F8989",
+        "color6": "#A59A95",
+        "color7": "#d8cfc9",
+        "color8": "#97908c",
+        "color9": "#3D85AC",
+        "color10": "#4989B1",
+        "color11": "#7091A9",
+        "color12": "#7BA0C0",
+        "color13": "#8F8989",
+        "color14": "#A59A95",
+        "color15": "#d8cfc9"
+    }
+}

@@ -1,0 +1,21 @@
+set $wallpaper /home/Leon/Pictures/Wallpapers/pineforest.jpg
+
+set $background #0c0a1f
+set $foreground #a3a1c9
+
+set $color0 #0c0a1f
+set $color1 #CA7063
+set $color2 #233B99
+set $color3 #38439A
+set $color4 #1645AE
+set $color5 #344FB1
+set $color6 #464EA2
+set $color7 #a3a1c9
+set $color8 #72708c
+set $color9 #CA7063
+set $color10 #233B99
+set $color11 #38439A
+set $color12 #1645AE
+set $color13 #344FB1
+set $color14 #464EA2
+set $color15 #a3a1c9

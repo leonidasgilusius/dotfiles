@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Leon/Pictures/Wallpapers/bladerunner.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0e0d",
+        "foreground": "#9dccc5",
+        "cursor": "#9dccc5"
+    },
+    "colors": {
+        "color0": "#0a0e0d",
+        "color1": "#1E3B44",
+        "color2": "#125354",
+        "color3": "#2F4C4B",
+        "color4": "#55665D",
+        "color5": "#907F6C",
+        "color6": "#6C8B75",
+        "color7": "#9dccc5",
+        "color8": "#6d8e89",
+        "color9": "#1E3B44",
+        "color10": "#125354",
+        "color11": "#2F4C4B",
+        "color12": "#55665D",
+        "color13": "#907F6C",
+        "color14": "#6C8B75",
+        "color15": "#9dccc5"
+    }
+}

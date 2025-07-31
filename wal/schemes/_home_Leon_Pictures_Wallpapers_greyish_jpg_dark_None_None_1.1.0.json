@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Leon/Pictures/Wallpapers/greyish.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a191f",
+        "foreground": "#c6bbc4",
+        "cursor": "#c6bbc4"
+    },
+    "colors": {
+        "color0": "#1a191f",
+        "color1": "#66668C",
+        "color2": "#746C8A",
+        "color3": "#9E7D8D",
+        "color4": "#887991",
+        "color5": "#C47F82",
+        "color6": "#92849C",
+        "color7": "#c6bbc4",
+        "color8": "#8a8289",
+        "color9": "#66668C",
+        "color10": "#746C8A",
+        "color11": "#9E7D8D",
+        "color12": "#887991",
+        "color13": "#C47F82",
+        "color14": "#92849C",
+        "color15": "#c6bbc4"
+    }
+}

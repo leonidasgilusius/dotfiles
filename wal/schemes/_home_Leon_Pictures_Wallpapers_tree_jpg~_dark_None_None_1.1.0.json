@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Leon/Pictures/Wallpapers/tree.jpg~",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1f15",
+        "foreground": "#c0cbcb",
+        "cursor": "#c0cbcb"
+    },
+    "colors": {
+        "color0": "#1f1f15",
+        "color1": "#8B653E",
+        "color2": "#738864",
+        "color3": "#96A26D",
+        "color4": "#BDC679",
+        "color5": "#78908E",
+        "color6": "#99A89B",
+        "color7": "#c0cbcb",
+        "color8": "#868e8e",
+        "color9": "#8B653E",
+        "color10": "#738864",
+        "color11": "#96A26D",
+        "color12": "#BDC679",
+        "color13": "#78908E",
+        "color14": "#99A89B",
+        "color15": "#c0cbcb"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Leon/Pictures/Wallpapers/TronLegacy-60.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#070C11",
+        "foreground": "#aacedd",
+        "cursor": "#aacedd"
+    },
+    "colors": {
+        "color0": "#070C11",
+        "color1": "#976A32",
+        "color2": "#7C8179",
+        "color3": "#E2C356",
+        "color4": "#3A6F87",
+        "color5": "#4A778E",
+        "color6": "#558FAA",
+        "color7": "#aacedd",
+        "color8": "#76909a",
+        "color9": "#976A32",
+        "color10": "#7C8179",
+        "color11": "#E2C356",
+        "color12": "#3A6F87",
+        "color13": "#4A778E",
+        "color14": "#558FAA",
+        "color15": "#aacedd"
+    }
+}
