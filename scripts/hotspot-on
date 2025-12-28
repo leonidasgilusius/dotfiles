@@ -1,0 +1,4 @@
+#!/bin/bash
+
+nmcli radio wifi on
+nmcli device wifi hotspot ssid Li_Yeon password OpenSesame

@@ -1,0 +1,4 @@
+#!/bin/bash
+WALLPAPER=$1
+echo "preload = $WALLPAPER" > ~/.config/hypr/hyprpaper.conf
+echo "wallpaper = , $WALLPAPER" >> ~/.config/hypr/hyprpaper.conf
